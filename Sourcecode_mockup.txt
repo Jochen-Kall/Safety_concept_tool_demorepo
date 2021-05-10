@@ -1,0 +1,8 @@
+Lets assume this here is actually a source code file.
+Does not matter what language, we just need a textfile to attach a Requirement ID to, to demonstrate how the 
+Tool will find the Tag, and create appropriate Github links within Freeplane.
+
+So lets get to it:
+// this is a comment, containing a requirements tag : [ID_446205303]
+Well, whats next?
+// another tag [ID_26556523]
